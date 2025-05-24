@@ -7,6 +7,8 @@
 <h3> Qompass AI on TypeScript </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-typescript)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/typescript/total?style=flat-square)
+
   <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </a>
