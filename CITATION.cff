@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Qompass AI on Typescript"
+title: "typescript"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -16,7 +16,7 @@ keywords:
   - Healthcare
   - Post-Quantum Cryptography
   - Quantum
-  - types
-  - javascript
-  - typescript
-abstract: "Qompass AI on TypeScript"
+  - data science
+  - machine learning
+  - python
+abstract: "Qompass AI TypeScript template"
